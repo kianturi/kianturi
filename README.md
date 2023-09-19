@@ -2,14 +2,17 @@
 
 💻 I'm a passionate software developer with expertise in web development, specializing in Laravel. 🚀 Laravel Icon: Laravel Icon
 
+🌱 Currently, I'm on a learning journey, continually honing my web development skills, diving deeper into Laravel, and exploring advanced programming concepts.
+
 🛠️ Technical Skills:
 
-Laravel: Laravel Icon
-Git: Git Icon
-Bootstrap: Bootstrap Icon
-JavaScript: JavaScript Icon
-HTML: HTML Icon
-CSS: CSS Icon
+Front-end: HTML, CSS, JavaScript
+Back-end: PHP (Laravel), Node.js
+Databases: MySQL, MongoDB
+Version Control: Git
+DevOps: Docker
+Testing: PHPUnit
+Tools: VS Code, PhpStorm
 🔧 When I'm not coding, you can find me tinkering with new technologies, solving coding challenges, and reading tech books.
 
 📚 I believe in lifelong learning and am always excited to share knowledge and learn from others in the developer community.
